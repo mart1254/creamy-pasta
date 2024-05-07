@@ -17,3 +17,7 @@
 - 2 oz. cream cheese
 - 1/4 cup grated Parmesan
 - 4 oz. fresh spinach
+
+### Steps
+
+Step 1: [Boil over high heat](./step-1/step-1.md)
